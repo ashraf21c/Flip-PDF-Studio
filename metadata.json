@@ -1,0 +1,6 @@
+{
+  "name": "FlipCraft PDF - 3D Flipbook Studio & Converter",
+  "description": "Cross-platform PDF to interactive 3D Flipbook converter supporting LTR/RTL reading, drag-and-drop batch processing, compression, color profiles, custom cover separation, and offline export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
